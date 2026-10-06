@@ -1,0 +1,12 @@
+# build output
+*.exe
+*.o
+*.out
+a.out
+a.exe
+
+# scratch / debug files
+dbg*
+t[0-9].c
+*.orig
+*.rej
